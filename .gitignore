@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Secrets
+.env
+*.pem
+*.key
+
+# VM / images
+*.vmdk
+*.iso
+*.img
+
+# Language caches
+node_modules/
+__pycache__/
+*.pyc
