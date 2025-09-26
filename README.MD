@@ -3,6 +3,16 @@
 A professional simulation of real-world IT support tickets, created as part of my **CompTIA A+ certification projects**.  
 This project showcases my troubleshooting skills, clear documentation, and ability to follow industry-standard workflows for IT support.
 
+<br>
+
+<p align="center">
+  <a href="dashboard.md">
+    <img src="assets/readme/dashboard.webp" alt="Ticket Dashboard Preview" width="850"/>
+  </a>
+</p>
+
+<br>
+
 ---
 
 ## Project Overview
